@@ -1,16 +1,13 @@
-# imc_calculator
+# Calculadora de IMC (imc_calculator)
 
-A new Flutter project.
+> Projeto com o objetivo de construir o código de uma aplicação funcional para cálculo de IMC e aprimorar minha base de conhecimentos de Dart e Flutter;
 
-## Getting Started
+## Funcionalidades do aplicativo
 
-This project is a starting point for a Flutter application.
+- Permitir que o usuário possa escolher seu sexo entre os valores de 'Masculino' ou 'Feminino' através da utilização de um radio;
+- Indicar ao usuário os campos corretos para receber os valores referentes ao cálculo de IMC, utilizando-se de TextFields para que o usuário possa fornecer sua idade, peso e altura;
+- Efetuar cálculo referente ao IMC através dos dados fornecidos pelo usuário e apresentar o resultado na tela;
 
-A few resources to get you started if this is your first Flutter project:
+## Aprendizado
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> O projeto tem como objetivo desafiar e testar meus conhecimentos básicos de lógica e programação com o intuito de aprimorar meus conhecimentos base de Dart e Flutter e fortalecer meus fundamentos básicos de programação;
